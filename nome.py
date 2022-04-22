@@ -1,0 +1,6 @@
+n = str(input('Digite seu nome completo:')) . strip()
+nome = n. split()
+print('Seu primeiro nome é {}'. format(nome[0]))
+salário = (input('o salário é R$'))
+print('Qual é o salário do mês de Abril?'))
+print('O salário do mês de abril de Pedro é de R$2.500,00'))
